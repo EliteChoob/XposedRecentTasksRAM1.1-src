@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="service_background_processes">%1$s wolne</string>
+    <string name="service_foreground_processes">%1$s w użyciu</string>
+
+</resources>
